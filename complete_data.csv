@@ -149,3 +149,153 @@
 147,,,,,malignant,melanoma,histopathology,149,,True,147,,nap
 148,,,,,malignant,melanoma,histopathology,150,,True,148,,nap
 149,,,,,malignant,melanoma,histopathology,153,,True,149,,nap
+150,,,,,malignant,melanoma,histopathology,154,,True,150,,nap
+151,,,,,malignant,melanoma,histopathology,155,,True,151,,nap
+152,,,,,malignant,melanoma,histopathology,156,,True,152,,nap
+153,,,,,malignant,melanoma,histopathology,157,,True,153,,nap
+154,,,,,malignant,melanoma,histopathology,158,,True,154,,nap
+155,,,,,malignant,melanoma,histopathology,159,,True,155,,nap
+156,,,,,malignant,melanoma,histopathology,160,,True,156,,nap
+157,,,60.0,upper extremity,malignant,mmis,histopathology,161,scapula,True,157,male,nyu
+158,0.76,,30.0,upper extremity,malignant,mm,histopathology,162,arm,True,158,female,nyu
+159,0.46,,15.0,upper extremity,malignant,mm,histopathology,163,scapula,True,159,female,nyu
+160,0.4,,55.0,lateral torso,malignant,mm,histopathology,164,flank,True,160,male,nyu
+161,0.45,,45.0,anterior torso,malignant,mm,histopathology,165,abdomen,True,161,male,nyu
+162,,,40.0,anterior torso,malignant,mmis,histopathology,166,abdomen,True,162,male,nyu
+163,0.5,,60.0,upper extremity,malignant,mm,histopathology,167,arm,True,163,male,nyu
+164,0.4,,60.0,upper extremity,malignant,mm,histopathology,168,scapula,True,164,male,nyu
+165,,,15.0,upper extremity,malignant,mmis,histopathology,169,arm,True,165,male,nyu
+166,,,30.0,upper extremity,malignant,mmis,histopathology,170,scapula,True,166,female,nyu
+167,,,40.0,posterior torso,malignant,mmis,histopathology,171,back,True,167,male,nyu
+168,0.4,,70.0,upper extremity,malignant,mm,histopathology,172,shoulder,True,168,male,nyu
+169,0.5,,70.0,upper extremity,malignant,mm,histopathology,173,scapula,True,169,male,nyu
+170,,,50.0,posterior torso,malignant,mmis,histopathology,174,back,True,170,male,nyu
+171,,,45.0,posterior torso,malignant,mmis,histopathology,175,back,True,171,male,nyu
+172,,,35.0,posterior torso,malignant,mmis,histopathology,176,back,True,172,female,nyu
+173,0.6,,65.0,upper extremity,malignant,mm,histopathology,177,shoulder,True,173,male,nyu
+174,0.6,,50.0,upper extremity,malignant,mm,histopathology,178,shoulder,True,174,female,nyu
+175,,,35.0,upper extremity,malignant,mmis,histopathology,179,scapula,True,175,female,nyu
+176,0.35,,40.0,lower extremity,malignant,mm,histopathology,180,leg,True,176,female,nyu
+177,,,25.0,anterior torso,benign,blue nevus,,181,areola,True,177,male,nyu
+178,,,65.0,upper extremity,benign,nevus,,182,arm,True,178,female,nyu
+179,,,35.0,anterior torso,benign,nevus,,183,chest,True,179,male,nyu
+180,,,45.0,lower extremity,benign,nevus,,184,buttock,True,180,female,nyu
+181,,,15.0,upper extremity,benign,nevus,,185,scapula,True,181,female,nyu
+182,,,45.0,anterior torso,benign,nevus,,186,chest,True,182,male,nyu
+183,,,30.0,anterior torso,benign,nevus,,187,areola,True,183,female,nyu
+184,,,25.0,anterior torso,benign,nevus,,188,chest,True,184,female,nyu
+185,,,25.0,posterior torso,benign,nevus,,189,back,True,185,female,nyu
+186,,,5.0,upper extremity,benign,blue nevus,,190,shoulder,True,186,male,nyu
+187,,,20.0,anterior torso,benign,congenital nevus,,191,abdomen,True,187,female,nyu
+188,,,45.0,posterior torso,benign,congenital nevus,,192,back,True,188,male,nyu
+189,,,30.0,anterior torso,benign,congenital nevus,,193,abdomen,True,189,male,nyu
+190,,,10.0,posterior torso,benign,congenital nevus,,194,back,True,190,female,nyu
+191,,,35.0,anterior torso,benign,congenital nevus,,195,chest,True,191,male,nyu
+192,,,55.0,upper extremity,benign,congenital nevus,,196,arm,True,192,female,nyu
+193,,,55.0,upper extremity,benign,congenital nevus,,197,arm,True,193,female,nyu
+194,,,30.0,upper extremity,benign,congenital nevus,,198,forearm,True,194,male,nyu
+195,,,15.0,anterior torso,benign,congenital nevus,,199,chest,True,195,female,nyu
+196,,,10.0,lower extremity,benign,nevus,,200,thigh,True,196,female,nyu
+197,,,10.0,lower extremity,benign,nevus,,201,thigh,True,197,female,nyu
+198,,,65.0,lower extremity,benign,blue nevus,,202,leg,True,198,male,nyu
+199,,,20.0,upper extremity,benign,spitz nevus,,203,arm,True,199,male,nyu
+200,,,50.0,lower extremity,benign,nevus,,204,thigh,True,200,female,nyu
+201,,,15.0,lower extremity,benign,spitz nevus,,205,thigh,True,201,male,nyu
+202,,,25.0,posterior torso,benign,dn,,206,back,True,202,female,nyu
+203,,,45.0,posterior torso,benign,dn,,207,back,True,203,female,nyu
+204,,,45.0,posterior torso,benign,dn,,208,back,True,204,male,nyu
+205,,,50.0,posterior torso,benign,dn,,209,back,True,205,male,nyu
+206,,,80.0,lower extremity,benign,dn,,210,leg,True,206,female,nyu
+207,,,30.0,upper extremity,benign,dn,,211,scapula,True,207,male,nyu
+208,,,35.0,posterior torso,benign,dn,,212,back,True,208,male,nyu
+209,,,75.0,upper extremity,benign,dn,,213,scapula,True,209,female,nyu
+210,,,65.0,lower extremity,benign,dn,,214,buttock,True,210,male,nyu
+211,,,30.0,upper extremity,benign,dn,,215,scapula,True,211,female,nyu
+212,,,25.0,posterior torso,benign,dn,,216,back,True,212,female,nyu
+213,,,30.0,anterior torso,benign,dn,,217,chest,True,213,female,nyu
+214,,,65.0,posterior torso,benign,dn,,218,back,True,214,male,nyu
+215,,,45.0,anterior torso,benign,dn,,219,chest,True,215,male,nyu
+216,,,30.0,anterior torso,benign,dn,,220,chest,True,216,male,nyu
+217,,,70.0,lower extremity,benign,dn,,221,thigh,True,217,male,nyu
+218,,,55.0,posterior torso,benign,dn,,222,back,True,218,male,nyu
+219,,,35.0,lower extremity,benign,dn,,223,thigh,True,219,male,nyu
+220,,,30.0,lower extremity,benign,dn,,224,leg,True,220,female,nyu
+221,,,30.0,upper extremity,benign,dn,,225,scapula,True,221,female,nyu
+222,,,25.0,lower extremity,benign,dn,,226,buttock,True,222,female,nyu
+223,,,45.0,anterior torso,benign,dn,,227,abdomen,True,223,female,nyu
+224,,,20.0,anterior torso,benign,dn,,228,abdomen,True,224,female,nyu
+225,,,35.0,anterior torso,benign,dn,,229,chest,True,225,female,nyu
+226,,,70.0,posterior torso,benign,dn,,230,back,True,226,male,nyu
+227,,,40.0,lower extremity,benign,dn,,231,thigh,True,227,female,nyu
+228,,,30.0,anterior torso,benign,dn,,232,abdomen,True,228,female,nyu
+229,,,50.0,anterior torso,benign,dn,,233,chest,True,229,male,nyu
+230,,,20.0,anterior torso,benign,dn,,234,abdomen,True,230,female,nyu
+231,,,25.0,posterior torso,benign,dn,,235,back,True,231,female,nyu
+232,,,75.0,upper extremity,benign,dn,,236,shoulder,True,232,male,nyu
+233,,,60.0,anterior torso,benign,dn,,237,abdomen,True,233,female,nyu
+234,,,20.0,anterior torso,benign,dn,,238,chest,True,234,male,nyu
+235,,,10.0,lower extremity,benign,blue nevus,,239,thigh,True,235,female,nyu
+236,,,30.0,lower extremity,benign,dn,,240,right anckle,True,236,male,bra
+237,,,70.0,posterior torso,benign,dn,,241,back,True,237,male,bra
+238,,,60.0,lower extremity,benign,dn,,242,right lower leg,True,238,male,bra
+239,,,5.0,lower extremity,benign,pigmented spitz,,243,"big toe, left foot",True,239,female,bra
+240,,,35.0,posterior torso,benign,dn,,244,back,True,240,female,bra
+241,,,25.0,posterior torso,benign,halo,,245,"back, interscapular",True,241,male,bra
+242,,,60.0,lateral torso,benign,junctional,,246,right flank,True,242,male,bra
+243,,,65.0,posterior torso,benign,dn,,247,back,True,243,male,bra
+244,,,40.0,anterior torso,benign,dn,,248,left clavicle ,True,244,male,bra
+245,,,70.0,posterior torso,benign,nevus,,249,lower back,True,245,male,bra
+246,,,25.0,lower extremity,benign,collision ,,250,right groin,True,246,female,bra
+247,,,35.0,upper extremity,benign,dn,,251,left upper arm,True,247,male,bra
+248,,,35.0,upper extremity,benign,dermal nevus,,252,right shoulder,True,248,male,bra
+249,,,20.0,lower extremity,benign,cn,,253,left groin,True,249,female,bra
+250,,,35.0,anterior torso,benign,nevus,,254,abdomen,True,250,male,bra
+251,,,50.0,posterior torso,benign,nevus,,255,back,True,251,female,bra
+252,,,75.0,lower extremity,benign,dn,,256,left calf,True,252,male,bra
+253,,,30.0,posterior torso,benign,dn,,257,back,True,253,female,bra
+254,,,60.0,lower extremity,benign,junctional,,258,left lower leg,True,254,female,bra
+255,,,60.0,lower extremity,benign,compound,,259,right calf,True,255,female,bra
+256,,,65.0,posterior torso,benign,compound,,260,back,True,256,male,bra
+257,,,15.0,palms/soles,benign,acral,,261,"left palm, ",,257,male,bra
+258,,,70.0,posterior torso,benign,dn,,262,back,True,258,male,bra
+259,,,45.0,anterior torso,benign,dermal nevus,,263,right breast,True,259,female,bra
+260,,,10.0,posterior torso,benign,nevus,,264,back,True,260,male,bra
+261,,,30.0,upper extremity,benign,nevus,,265,right upper arm,True,261,female,bra
+262,,,25.0,anterior torso,benign,nevus,,266,abdomen ,True,262,female,bra
+263,,,25.0,posterior torso,benign,junctional,,267,lower back,True,263,female,bra
+264,,,25.0,lower extremity,benign,cn,,268,left lower leg,True,264,female,bra
+265,,,25.0,upper extremity,benign,cn,,269,left shoulder,True,265,female,bra
+266,,,30.0,anterior torso,benign,cn,,270,right breast,True,266,female,bra
+267,,,35.0,anterior torso,benign,dn,,271,abdomen,True,267,female,bra
+268,,,45.0,posterior torso,benign,nevus,,272,lower back,True,268,female,bra
+269,,,30.0,anterior torso,benign,compound,,273,right breast,True,269,male,bra
+270,,,30.0,upper extremity,benign,halo,,274,right shoulder,True,270,female,bra
+271,,,20.0,upper extremity,benign,dn,,275,right upper arm,True,271,male,bra
+272,,,45.0,anterior torso,benign,dn,,276,right breast,True,272,male,bra
+273,,,30.0,anterior torso,benign,cn,,277,right breast,True,273,female,bra
+274,,,20.0,posterior torso,benign,cn,,278,back,True,274,female,bra
+275,,,45.0,upper extremity,benign,dermal nevus,,279,right shoulder,True,275,female,bra
+276,3,IV,70.0,anterior torso,malignant,melanoma,histopathology,280,right breast,True,276,male,bra
+277,0.8,III/IV,70.0,anterior torso,malignant,melanoma,histopathology,281,left breast,True,277,male,bra
+278,,,75.0,head/neck,malignant,LM,histopathology,282,right cheek,True,278,female,bra
+279,0.4,,80.0,lower extremity,malignant,acral  melanoma,histopathology,283,"big toe, left foot",True,279,male,bra
+280,,,70.0,posterior torso,malignant,MIS,histopathology,284,back,True,280,male,bra
+281,1.5,,25.0,posterior torso,malignant,melanoma,histopathology,285,back,True,281,male,bra
+282,0.9,,65.0,palms/soles,malignant,acral melanoma,histopathology,286,right sole,True,282,female,bra
+283,0.7,III,50.0,upper extremity,malignant,melanoma,histopathology,287,left shoulder,True,283,male,bra
+284,1.3,,80.0,head/neck,malignant,melanoma,histopathology,288,scalp,True,284,male,bra
+285,,,60.0,lateral torso,malignant,MIS,histopathology,289,left flank,True,285,male,bra
+286,1.85,IV,50.0,head/neck,malignant,Melanoma,histopathology,290,scalp,True,286,male,bra
+287,1,,55.0,palms/soles,malignant,acral melanoma,histopathology,291,left sole,True,287,male,bra
+288,0.5,II,70.0,upper extremity,malignant,melanoma,histopathology,292,right elbow,True,288,female,bra
+289,0.7,III/IV,75.0,head/neck,malignant,LMM,histopathology,293,forehead,True,289,male,bra
+290,1.5,IV,65.0,palms/soles,malignant,acral melanoma,histopathology,294,left sole,True,290,female,bra
+291,,,55.0,head/neck,malignant,MIS,histopathology,295,left cheek,True,291,female,bra
+292,,,85.0,head/neck,malignant,LM,histopathology,296,left corner of mouth,True,292,female,bra
+293,1,III,70.0,lower extremity,malignant,melanoma,histopathology,297,right thigh,True,293,male,bra
+294,0.7,IV,80.0,posterior torso,malignant,melanoma,histopathology,298,back,True,294,male,bra
+295,0.58,III,85.0,upper extremity,malignant,melanoma,histopathology,299,Upper limb,True,295,female,mod
+296,0.47,II,50.0,posterior torso,malignant,melanoma,histopathology,300,Back,True,296,female,mod
+297,0.4,II,35.0,anterior torso,malignant,melanoma,histopathology,301,Abdomen,True,297,female,mod
+298,0.98,,50.0,lower extremity,malignant,melanoma,histopathology,302,Lower limb,True,298,male,mod
+299,1.15,II,75.0,head/neck,malignant,melanoma,histopathology,303,Face,True,299,male,mod

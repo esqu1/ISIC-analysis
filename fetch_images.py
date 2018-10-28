@@ -3,7 +3,7 @@ import pandas as pd
 from PIL import Image
 
 def main():
-    r = requests.get('https://isic-archive.com/api/v1/image?limit=150')
+    r = requests.get('https://isic-archive.com/api/v1/image?limit=300')
     s = r.json()
     data = []
     for i, doc in enumerate(s):
@@ -23,15 +23,15 @@ def main():
 
         # read in the image
         image = r2.content
-        with open('isic/img/image%03d.jpg' % i, 'wb') as f:
+        with open('img/image%03d.jpg' % i, 'wb') as f:
             f.write(image)
 
         # resize the images to 400x700
-        img = Image.open('isic/img/image%03d.jpg' % i)
+        img = Image.open('img/image%03d.jpg' % i)
         img = img.resize((700, 400), Image.ANTIALIAS)
-        img.save('isic/img/image%03d.jpg' % i)
+        img.save('img/image%03d.jpg' % i)
     
     data_df = pd.DataFrame(data)
-    data_df.to_csv('isic/complete_data.csv')
+    data_df.to_csv('complete_data.csv')
             
 main()
