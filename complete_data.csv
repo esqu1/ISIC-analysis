@@ -1,0 +1,151 @@
+,Breslow,Clark,age_approx,anatom_site_general,benign_malignant,diagnosis,diagnosis_confirm_type,id1,localization,melanocytic,num,sex,site
+0,,,55.0,anterior torso,benign,dysplastic nevus,,1,Abdomen,True,0,female,bar
+1,,,30.0,anterior torso,benign,dysplastic nevus,,2,Abdomen,True,1,female,bar
+2,,,60.0,upper extremity,malignant,Melanoma in situ,histopathology,3,Upper limb,True,2,female,bar
+3,,,30.0,upper extremity,benign,dysplstic nevus,,4,Upper limb,True,3,male,bar
+4,,,80.0,posterior torso,malignant,Melanoma,histopathology,5,Back,True,4,male,bar
+5,,,40.0,anterior torso,benign,Nevus,,6,Abdomen,True,5,female,bar
+6,,,25.0,posterior torso,benign,dysplastic nevus,,7,Back,True,6,female,bar
+7,,,25.0,posterior torso,benign,dysplastic nevus,,8,Back,True,7,female,bar
+8,,,30.0,anterior torso,benign,dysplastic nevus,,9,Abdomen,True,8,female,bar
+9,,,30.0,anterior torso,benign,dysplastic nevus,,10,Abdomen,True,9,female,bar
+10,,,35.0,posterior torso,benign,dysplastic nevus,,11,Back,True,10,female,bar
+11,,,35.0,lower extremity,benign,Nevus,,12,lower limb,True,11,female,bar
+12,,,30.0,posterior torso,benign,Nevus,,13,Back,True,12,male,bar
+13,0.7,II,30.0,posterior torso,malignant,Melanoma ,histopathology,14,Back,True,13,female,bar
+14,,,35.0,posterior torso,benign,Nevus,,15,Back,True,14,male,bar
+15,,,35.0,posterior torso,benign,dysplastic nevus,,16,Back,True,15,male,bar
+16,,,55.0,anterior torso,benign,dysplastic nevus,,17,Abdomen,True,16,female,bar
+17,,,50.0,posterior torso,benign,Nevus ,,18,Back,True,17,female,bar
+18,,,30.0,posterior torso,benign,dysplastic nevus,,19,Back,True,18,male,bar
+19,,,30.0,posterior torso,benign,dysplastic nevus,,20,Back,True,19,female,bar
+20,,,25.0,anterior torso,benign,dysplastic nevus,,21,Breast,True,20,female,bar
+21,,,55.0,posterior torso,benign,dysplastic nevus,,22,Back,True,21,female,bar
+22,,I,55.0,lower extremity,malignant,Melanoma in situ,histopathology,23,lower limb,True,22,female,bar
+23,,,30.0,anterior torso,benign,dysplastic nevus,,24,Breast,True,23,female,bar
+24,,,45.0,posterior torso,benign,dysplastic nevus,,25,Back,True,24,male,bar
+25,,,35.0,lower extremity,benign,Nevus,,26,lower limb,True,25,female,bar
+26,0.6,II,30.0,lower extremity,malignant,Melanoma ,histopathology,27,lower limb,True,26,female,bar
+27,,,35.0,anterior torso,benign,Nevus,,28,Abdomen,True,27,female,bar
+28,,,60.0,anterior torso,benign,dysplastic nevus,,29,Abdomen,True,28,male,bar
+29,,,45.0,posterior torso,malignant,Melanoma ,histopathology,30,Back,True,29,female,bar
+30,0.8,II,55.0,lower extremity,malignant,Melanoma ,histopathology,31,lower limb,True,30,female,bar
+31,0.4,II,70.0,upper extremity,malignant,Melanoma ,histopathology,32,Upper limb,True,31,male,bar
+32,,,30.0,posterior torso,benign,Nevus,,33,Back,True,32,female,bar
+33,,,45.0,lower extremity,benign,Nevus,,34,lower limb,True,33,female,bar
+34,,,30.0,posterior torso,benign,dysplastic nevus,,35,Back,True,34,female,bar
+35,0.5,III,25.0,lower extremity,malignant,Melanoma ,histopathology,36,lower limb,True,35,female,bar
+36,0.25,II,70.0,upper extremity,malignant,Melanoma ,histopathology,37,Upper limb,True,36,male,bar
+37,,,70.0,posterior torso,benign,Nevus,,38,Back,True,37,male,bar
+38,,,40.0,posterior torso,benign,dysplastic nevus,,39,Back,True,38,female,bar
+39,,,60.0,posterior torso,benign,dysplastic nevus,,40,Back,True,39,female,bar
+40,,I,65.0,lower extremity,malignant,Melanoma ,histopathology,41,lower limb,True,40,female,bar
+41,,,40.0,lower extremity,benign,dysplastic nevus,,42,lower limb,True,41,female,bar
+42,,,50.0,anterior torso,benign,Nevus,,43,Breast,True,42,male,bar
+43,0.9,III,35.0,lower extremity,malignant,Melanoma ,histopathology,44,Pubis,True,43,male,bar
+44,,,20.0,posterior torso,benign,dysplastic nevus,,45,Back,True,44,male,bar
+45,,,30.0,lower extremity,benign,Nevus,,46,lower limb,True,45,male,bar
+46,,I,60.0,upper extremity,malignant,Melanoma ,histopathology,47,Upper limb,True,46,female,bar
+47,,,70.0,lower extremity,benign,Nevus,,48,lower limb,True,47,male,bar
+48,,,50.0,anterior torso,benign,dysplastic nevus,,49,Abdomen,True,48,female,bar
+49,,I,80.0,posterior torso,malignant,Melanoma in situ,histopathology,50,Back,True,49,female,bar
+50,,,30.0,anterior torso,benign,Nevus,,51,Abdomen,True,50,male,bar
+51,,,55.0,upper extremity,benign,dysplastic nevus,,52,Upper limb,True,51,male,bar
+52,,,40.0,posterior torso,benign,Nevus,,53,Back,True,52,female,bar
+53,,,25.0,posterior torso,benign,dysplastic nevus,,54,Back,True,53,female,bar
+54,,I,25.0,lower extremity,malignant,Melanoma in situ,histopathology,55,lower limb,True,54,female,bar
+55,,,40.0,posterior torso,benign,dysplastic nevus,,56,Back,True,55,female,bar
+56,,I,55.0,lower extremity,malignant,Melanoma in situ,histopathology,57,lower limb,True,56,female,bar
+57,,,40.0,lower extremity,benign,Nevus,,58,lower limb,True,57,female,bar
+58,,,40.0,posterior torso,benign,Nevus,,59,Back,True,58,female,bar
+59,,,30.0,lower extremity,benign,dysplastic nevus,,60,lower limb,True,59,female,bar
+60,,,35.0,posterior torso,benign,Nevus,,61,Back,True,60,female,bar
+61,,,35.0,lower extremity,benign,Nevus,,62,lower limb,True,61,female,bar
+62,,,40.0,posterior torso,benign,Nevus,,63,Back,True,62,female,bar
+63,,,45.0,anterior torso,benign,Nevus,,64,Breast,True,63,female,bar
+64,,,40.0,anterior torso,benign,Nevus,,65,Abdomen,True,64,female,bar
+65,,,30.0,posterior torso,benign,dysplastic nevus,,66,Back,True,65,female,bar
+66,,,55.0,posterior torso,benign,dysplastic nevus,,67,Back,True,66,female,bar
+67,,,45.0,posterior torso,benign,dysplastic nevus,,68,Back,True,67,female,bar
+68,,,35.0,anterior torso,benign,Nevus,,69,Abdomen,True,68,female,bar
+69,,,15.0,anterior torso,benign,Nevus,,70,Abdomen,True,69,female,bar
+70,0.55,III,25.0,anterior torso,malignant,Melanoma in situ,histopathology,71,Abdomen,True,70,male,bar
+71,,,25.0,posterior torso,benign,Nevus,,72,Back,True,71,male,bar
+72,,,85.0,posterior torso,benign,dysplastic nevus,,73,Back,True,72,male,bar
+73,,,20.0,posterior torso,benign,Nevus,,74,Back,True,73,female,bar
+74,,I,25.0,lower extremity,malignant,Melanoma in situ,histopathology,75,lower limb,True,74,male,bar
+75,,,50.0,anterior torso,benign,Nevus,,76,Abdomen,True,75,female,bar
+76,3.1,III,55.0,posterior torso,malignant,Nodular melanoma,histopathology,77,Back,True,76,male,bar
+77,0.5,II,80.0,upper extremity,malignant,Melanoma tipo lentigo maligno,histopathology,78,Upper limb,True,77,male,bar
+78,,I,85.0,anterior torso,malignant,Melanoma in situ,histopathology,79,Abdomen,True,78,male,bar
+79,,,55.0,lower extremity,benign,dysplastic nevus,,80,lower limb,True,79,female,bar
+80,,,,,benign,nevus nos,,81,,True,80,,nap
+81,,,,,benign,nevus nos,,82,,True,81,,nap
+82,,,,,benign,nevus nos,,83,,True,82,,nap
+83,,,,,benign,nevus nos,,84,,True,83,,nap
+84,,,,,benign,nevus nos,,85,,True,84,,nap
+85,,,,,benign,nevus nos,,86,,True,85,,nap
+86,,,,,benign,nevus nos,,87,,True,86,,nap
+87,,,,,benign,nevus nos,,88,,True,87,,nap
+88,,,,,benign,nevus nos,,89,,True,88,,nap
+89,,,,,benign,nevus nos,,90,,True,89,,nap
+90,,,,,benign,nevus nos,,91,,True,90,,nap
+91,,,,,benign,nevus nos,,92,,True,91,,nap
+92,,,,,benign,nevus nos,,93,,True,92,,nap
+93,,,,,benign,nevus nos,,94,,True,93,,nap
+94,,,,,benign,nevus nos,,95,,True,94,,nap
+95,,,,,benign,nevus nos,,96,,True,95,,nap
+96,,,,,benign,nevus nos,,97,,True,96,,nap
+97,,,,,benign,nevus nos,,98,,True,97,,nap
+98,,,,,benign,nevus nos,,99,,True,98,,nap
+99,,,,,benign,nevus nos,,101,,True,99,,nap
+100,,,,,benign,nevus nos,,102,,True,100,,nap
+101,,,,,benign,nevus nos,,103,,True,101,,nap
+102,,,,,benign,nevus nos,,104,,True,102,,nap
+103,,,,,benign,nevus nos,,105,,True,103,,nap
+104,,,,,benign,nevus nos,,106,,True,104,,nap
+105,,,,,benign,nevus nos,,107,,True,105,,nap
+106,,,,,benign,nevus nos,,108,,True,106,,nap
+107,,,,,benign,nevus nos,,109,,True,107,,nap
+108,,,,,benign,nevus nos,,110,,True,108,,nap
+109,,,,,benign,nevus nos,,111,,True,109,,nap
+110,,,,,benign,nevus nos,,112,,True,110,,nap
+111,,,,,benign,nevus nos,,113,,True,111,,nap
+112,,,,,benign,nevus nos,,114,,True,112,,nap
+113,,,,,benign,nevus nos,,115,,True,113,,nap
+114,,,,,benign,nevus nos,,116,,True,114,,nap
+115,,,,,benign,nevus nos,,117,,True,115,,nap
+116,,,,,benign,nevus nos,,118,,True,116,,nap
+117,,,,,benign,nevus nos,,119,,True,117,,nap
+118,,,,,benign,nevus nos,,120,,True,118,,nap
+119,,,,,benign,nevus nos,,121,,True,119,,nap
+120,,,,,benign,nevus nos,,122,,True,120,,nap
+121,,,,,benign,nevus nos,,123,,True,121,,nap
+122,,,,,benign,nevus nos,,124,,True,122,,nap
+123,,,,,benign,nevus nos,,125,,True,123,,nap
+124,,,,,benign,nevus nos,,126,,True,124,,nap
+125,,,,,benign,nevus nos,,127,,True,125,,nap
+126,,,,,benign,nevus nos,,128,,True,126,,nap
+127,,,,,benign,nevus nos,,129,,True,127,,nap
+128,,,,,benign,nevus nos,,130,,True,128,,nap
+129,,,,,benign,nevus nos,,131,,True,129,,nap
+130,,,,,benign,nevus nos,,132,,True,130,,nap
+131,,,,,benign,nevus nos,,133,,True,131,,nap
+132,,,,,benign,nevus nos,,134,,True,132,,nap
+133,,,,,benign,nevus nos,,135,,True,133,,nap
+134,,,,,benign,nevus nos,,136,,True,134,,nap
+135,,,,,benign,nevus nos,,137,,True,135,,nap
+136,,,,,benign,nevus nos,,138,,True,136,,nap
+137,,,,,benign,nevus nos,,139,,True,137,,nap
+138,,,,,benign,nevus nos,,140,,True,138,,nap
+139,,,,,malignant,melanoma,histopathology,141,,True,139,,nap
+140,,,,,malignant,melanoma,histopathology,142,,True,140,,nap
+141,,,,,malignant,melanoma,histopathology,143,,True,141,,nap
+142,,,,,malignant,melanoma,histopathology,144,,True,142,,nap
+143,,,,,malignant,melanoma,histopathology,145,,True,143,,nap
+144,,,,,malignant,melanoma,histopathology,146,,True,144,,nap
+145,,,,,malignant,melanoma,histopathology,147,,True,145,,nap
+146,,,,,malignant,melanoma,histopathology,148,,True,146,,nap
+147,,,,,malignant,melanoma,histopathology,149,,True,147,,nap
+148,,,,,malignant,melanoma,histopathology,150,,True,148,,nap
+149,,,,,malignant,melanoma,histopathology,153,,True,149,,nap
